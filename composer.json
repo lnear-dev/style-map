@@ -1,0 +1,17 @@
+{
+  "name": "lnear/style-map",
+  "authors": [
+    {
+      "name": "lnear",
+      "email": "hi@lnear.dev"
+    }
+  ],
+  "description": "Simple function to generate css strings programmatically",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "styleMap.php"
+    ]
+  }
+}
